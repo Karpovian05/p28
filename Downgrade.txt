@@ -1,0 +1,91 @@
+labas ko na downgrading ng smartbro 5.3/3.1
+bukas dapat OTA bago kayu mag downgrade
+
+AP: P28PLDT_AP_R281_V004.2
+<?xml version="1.0" encoding="US-ASCII"?>
+<RGW>
+    <param>
+        <method>call</method>
+        <session>000</session>
+        <obj_path>ota</obj_path>
+        <obj_method>download</obj_method>
+    </param>
+    <ota>
+        <type>1</type>
+        <size></size>
+        <url>http://118.193.73.96/rBpL1GD5LRuARTDTAJwBEA63BtY899.bin</url>
+        <username></username>
+        <password></password>
+        <sync></sync>
+        <md5></md5>
+    </ota>
+</RGW>
+
+CP: P28M26HAPLDT_CP_R281_V002.2
+<?xml version="1.0" encoding="US-ASCII"?>
+<RGW>
+    <param>
+        <method>call</method>
+        <session>000</session>
+        <obj_path>ota</obj_path>
+        <obj_method>download</obj_method>
+    </param>
+    <ota>
+        <type>1</type>
+        <size></size>
+        <url>http://118.193.73.96/rBpL1GCvEpyAIgarAZVeUMSrB3A157.bin</url>
+        <username></username>
+        <password></password>
+        <sync></sync>
+        <md5></md5>
+    </ota>
+</RGW>
+
+
+
+AP: P28PLDT_AP_R281_V004.2
+<?xml version="1.0" encoding="US-ASCII"?>
+<RGW>
+    <param>
+        <method>call</method>
+        <session>000</session>
+        <obj_path>ota</obj_path>
+        <obj_method>download</obj_method>
+    </param>
+    <ota>
+        <type>1</type>
+        <size></size>
+        <url>http://118.193.73.96/P28_SMARTBRO_AP_V005_3.bin</url>
+        <username></username>
+        <password></password>
+        <sync></sync>
+        <md5></md5>
+    </ota>
+</RGW>
+
+CP: P28M26HAPLDT_CP_R281_V002.2
+<?xml version="1.0" encoding="US-ASCII"?>
+<RGW>
+    <param>
+        <method>call</method>
+        <session>000</session>
+        <obj_path>ota</obj_path>
+        <obj_method>download</obj_method>
+    </param>
+    <ota>
+        <type>1</type>
+        <size></size>
+        <url>http://118.193.73.96/P28_SMARTBRO_CP_V003_1.bin</url>
+        <username></username>
+        <password></password>
+        <sync></sync>
+        <md5></md5>
+    </ota>
+</RGW>
+
+
+AP: http://118.193.73.96/P28_SMARTBRO_AP_V005_3.bin
+CP: http://118.193.73.96/P28_SMARTBRO_CP_V003_1.bin
+
+
+
